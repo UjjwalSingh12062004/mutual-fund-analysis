@@ -4,7 +4,6 @@ This project analyzes mutual fund data to identify **top-performing schemes with
 
 🛠️ **Tools Used:** Python (Pandas, Sklearn), Excel, Power BI
 📁 **Dataset:** 2500+ Mutual Fund Schemes (Top 30 Filtered)
-
 ---
 
 ## 🧠 Project Goal
